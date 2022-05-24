@@ -2,7 +2,6 @@
 
 > This is my 2nd day project.
 > Hello world with css and html git and github tests.
-![screenshot](./app_screenshot.png)
 Learning how to do gitignore, github flow, branches.
 
 ## Built With
