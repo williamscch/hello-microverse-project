@@ -2,7 +2,7 @@
 
 > This is my 2nd day project.
 > Hello world with css and html git and github tests.
-Learning how to do gitignore, github flow, branches.
+Learning about gitignore, github flow, branches, linters.
 
 ## Built With
 
@@ -19,7 +19,3 @@ Learning how to do gitignore, github flow, branches.
 Contributions, issues, and feature requests are welcome!
 ## Show your support
 Give a ⭐️ if you like this project!
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
