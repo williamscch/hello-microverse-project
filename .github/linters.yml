@@ -1,4 +1,4 @@
-name: Linters
+name: linters.yml
 
 on: pull_request
 
